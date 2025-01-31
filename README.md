@@ -1,2 +1,2 @@
-# StudyGrowth
+# StudyFlow
 AI based study planner 
